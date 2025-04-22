@@ -17,8 +17,8 @@ loader = instaloader.Instaloader()
 # Function to login
 def login_instagram():
     # Enter your Instagram username and password here
-    username = "your-username"  # Replace with your Instagram username
-    password = "your-password"  # Replace with your Instagram password
+    username = "iam.shivxm"  # Replace with your Instagram username
+    password = "Shivam12!?"  # Replace with your Instagram password
 
     try:
         loader.context.log("Logging in...")
